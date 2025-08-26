@@ -56,3 +56,8 @@ This project demonstrates NLP, embeddings, semantic retrieval, unit testing, and
    ```bash
    git clone https://github.com/your-username/movie-search-assignment_221020444.git
    cd movie-search-assignment_221020444
+
+
+
+Test Cases Passes proof:
+<img width="1388" height="324" alt="image" src="https://github.com/user-attachments/assets/b7ef92b2-2117-4335-a8d8-5886308b8ee0" />
